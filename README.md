@@ -1,3 +1,5 @@
 # ChessKramnik-Frontend
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/alinaqi/ChessKramnik-Frontend)
+Detect cheating and get feedback on your games. 
+
+Concept by Sanan Ahmadov - all rights reserved.
